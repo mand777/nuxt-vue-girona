@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # codi
+=======
+# nuxt-vue-girona
+>>>>>>> 1e860b6091ac3f1e08ed3613788c2220d7cc00c7
 
 ## Build Setup
 

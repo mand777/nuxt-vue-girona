@@ -11,6 +11,7 @@ export default {
   head: {
     titleTemplate: '%s - codi',
     title: 'codi',
+
     htmlAttrs: {
       lang: 'en'
     },
@@ -50,7 +51,11 @@ export default {
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
     theme: {
+<<<<<<< HEAD
       dark: false,
+=======
+      dark: true,
+>>>>>>> 1e860b6091ac3f1e08ed3613788c2220d7cc00c7
       themes: {
         dark: {
           primary: colors.blue.darken2,
