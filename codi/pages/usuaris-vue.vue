@@ -39,6 +39,7 @@ export default{
 
             var dades= await resposta.json()
             console.log(dades)
+            this.usuaris= dades
 
         }
 
